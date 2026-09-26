@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:cod"
+        },
+        "title": "Poisson Légendaire",
+        "description": "",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "background": "block/water_overlay"
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:fishing_rod_hooked",
+            "conditions": {
+                "item": {
+                    "predicates": {
+                        "minecraft:custom_data": {
+                            "rarity": "legendary"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "keepfishing:fish_legendary"
+    }
+}

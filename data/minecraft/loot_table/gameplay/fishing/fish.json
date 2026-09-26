@@ -1,0 +1,2650 @@
+{
+    "type": "minecraft:fishing",
+    "pools": [
+        {
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Perche",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "P",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "c",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "h",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Bar",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "B",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Anchois",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "A",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "c",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "h",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "s",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Bouvière",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "B",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "v",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "è",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Silure",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "S",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "l",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Tilapia",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "T",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "l",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "p",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Vivaneau",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "V",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "v",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Vandoise",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "V",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "d",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "s",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:cod",
+                    "weight": 50,
+                    "quality": -10,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Morue",
+                                    "type": "text",
+                                    "color": "gray"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "M",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Commun",
+                                            "type": "text",
+                                            "color": "gray"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:salmon",
+                    "weight": 35,
+                    "quality": -2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Cardeau",
+                                    "type": "text",
+                                    "color": "green"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "C",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "d",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:salmon",
+                    "weight": 35,
+                    "quality": -2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Crabe",
+                                    "type": "text",
+                                    "color": "green"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "C",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "b",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:salmon",
+                    "weight": 35,
+                    "quality": -2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Scarus",
+                                    "type": "text",
+                                    "color": "green"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "S",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "c",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "s",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:salmon",
+                    "weight": 35,
+                    "quality": -2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Fondule",
+                                    "type": "text",
+                                    "color": "green"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "F",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "d",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "l",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:salmon",
+                    "weight": 35,
+                    "quality": -2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Saumon",
+                                    "type": "text",
+                                    "color": "green"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Peu Commun",
+                                            "type": "text",
+                                            "color": "green"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:tropical_fish",
+                    "weight": 25,
+                    "quality": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Gobie",
+                                    "type": "text",
+                                    "color": "aqua"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "G",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "b",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:tropical_fish",
+                    "weight": 25,
+                    "quality": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Guppy",
+                                    "type": "text",
+                                    "color": "aqua"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "G",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "p",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "p",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "y",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:tropical_fish",
+                    "weight": 25,
+                    "quality": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Murène",
+                                    "type": "text",
+                                    "color": "aqua"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "M",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "è",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:tropical_fish",
+                    "weight": 25,
+                    "quality": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Néon Bleu",
+                                    "type": "text",
+                                    "color": "aqua"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "N",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "é",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "n ",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "B",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "l",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:tropical_fish",
+                    "weight": 25,
+                    "quality": 2,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Poisson Rouge",
+                                    "type": "text",
+                                    "color": "aqua"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "P",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "s",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "s",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "n ",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "R",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "g",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Rare",
+                                            "type": "text",
+                                            "color": "aqua"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pufferfish",
+                    "weight": 10,
+                    "quality": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Hippocampe",
+                                    "type": "text",
+                                    "color": "light_purple"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "H",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "p",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "p",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "c",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "m",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "p",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pufferfish",
+                    "weight": 10,
+                    "quality": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Esturgeon",
+                                    "type": "text",
+                                    "color": "light_purple"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "E",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "s",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "t",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "g",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pufferfish",
+                    "weight": 10,
+                    "quality": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Raie",
+                                    "type": "text",
+                                    "color": "light_purple"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "R",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pufferfish",
+                    "weight": 10,
+                    "quality": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Chirurgien",
+                                    "type": "text",
+                                    "color": "light_purple"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "C",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "h",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "g",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:pufferfish",
+                    "weight": 10,
+                    "quality": 3,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Calmar",
+                                    "type": "text",
+                                    "color": "light_purple"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ]
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "C",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "l",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "m",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Epic",
+                                            "type": "text",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:nautilus_shell",
+                    "weight": 3,
+                    "quality": 5,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Requin Marteau",
+                                    "type": "text",
+                                    "color": "gold"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Légendaire",
+                                            "type": "text",
+                                            "color": "gold"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "rarity": "legendary"
+                                }
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "R",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "q",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "n ",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "M",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "t",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Légendaire",
+                                            "type": "text",
+                                            "color": "gold"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "rarity": "legendary",
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:nautilus_shell",
+                    "weight": 3,
+                    "quality": 5,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Homard",
+                                    "type": "text",
+                                    "color": "gold"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Légendaire",
+                                            "type": "text",
+                                            "color": "gold"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "rarity": "legendary"
+                                }
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "H",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "o",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "m",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "r",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "d",
+                                            "color": "white"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Légendaire",
+                                            "type": "text",
+                                            "color": "gold"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "rarity": "legendary",
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:nautilus_shell",
+                    "weight": 3,
+                    "quality": 5,
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:item_name": {
+                                    "text": "Requin Blanc",
+                                    "type": "text",
+                                    "color": "gold"
+                                },
+                                "minecraft:lore": [
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Légendaire",
+                                            "type": "text",
+                                            "color": "gold"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "rarity": "legendary"
+                                }
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "conditions": [
+                                {
+                                    "condition": "minecraft:random_chance",
+                                    "chance": 0.01
+                                }
+                            ],
+                            "components": {
+                                "enchantment_glint_override": true,
+                                "minecraft:item_name": [
+                                    [
+                                        {
+                                            "text": "R",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "e",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "q",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "u",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "i",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "n ",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "B",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "l",
+                                            "color": "light_purple"
+                                        },
+                                        {
+                                            "text": "a",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "n",
+                                            "color": "dark_purple"
+                                        },
+                                        {
+                                            "text": "c",
+                                            "color": "light_purple"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:lore": [
+                                    {
+                                        "text": "Shiny",
+                                        "color": "light_purple"
+                                    },
+                                    [
+                                        {
+                                            "text": "Rareté : ",
+                                            "type": "text",
+                                            "color": "white"
+                                        },
+                                        {
+                                            "text": "Légendaire",
+                                            "type": "text",
+                                            "color": "gold"
+                                        }
+                                    ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "rarity": "legendary",
+                                    "shiny": true
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "rolls": 1
+        }
+    ],
+    "random_sequence": "minecraft:gameplay/fishing/fish"
+}
