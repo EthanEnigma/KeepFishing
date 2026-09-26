@@ -1,4 +1,4 @@
-# <img src="https://github.com/EthanEnigma/KeepFishing/blob/main/pack.png?raw=true" width="32"> KeepFishing - Datapack Minecraft
+# <img src="/pack.png" width="32"> KeepFishing - Datapack Minecraft
 
 **KeepFishing** est un datapack Minecraft (Java Edition) qui ajoute un système de rareté aux poissons capturés en pêchant.
 
@@ -10,7 +10,8 @@
     - Rare 
     - Epic
     - Légendaire
-- **Système de Shiny** : Poissons enchantés avec une couleur différente.
+- **Système de Shiny :** Variante des poissons plus rare ayant une couleur différente.
+- **Compatibilité Multijoueur :** Le Datapack peut facilement être ajouté ou retiré d'un monde solo comme multijoueur.
 
 ## Versions Compatibles
 - Minecraft Java Edition :
@@ -20,7 +21,7 @@
 
 ### Nouveau monde :
 1. Téléchargez la dernière version du datapack et dezippez le.
-2. Dans le menu création du nouveau monde allez dans `Plus`, `Pack de données` ou `Datapacks`, <br> faites `Ouvrir le dossier des packs` et placez le dossier `KeepFishing` à l'intérieur.
+2. Dans le menu création du nouveau monde > `Plus` > `Pack de données` ou `Datapacks`, <br> faites `Ouvrir le dossier des packs` et placez le dossier `KeepFishing` à l'intérieur.
 4. Lancez votre monde.
 
 ### Monde déjà existant :
@@ -29,6 +30,7 @@
    - `.minecraft/saves/<nom_du_monde>/datapacks/`
 3. Lancez votre monde.
 
+- `Menu de création` > `Plus` > `Datapacks` <br>
 <img src="/github/Installation1.png" width="500">
 
 ## Poissons et taux de drop
