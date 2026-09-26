@@ -29,7 +29,7 @@
    - `.minecraft/saves/<nom_du_monde>/datapacks/`
 3. Lancez votre monde.
 
-<img src="/github/Installation1.png" width="200">
+<img src="/github/Installation1.png" width="500">
 
 ## Poissons et taux de drop
 - ### **Communs (~56%) :**
@@ -67,6 +67,6 @@
 
 ### Tous les poissons ont une variante shiny ayant `1%` de chance de drop.
 
-<img src="/github/Bar.png" width="200">
-<img src="/github/BarShiny.png" width="200">
-<img src="/github/MessageShiny.png" width="200">
+<img src="/github/Bar.png" width="500">
+<img src="/github/BarShiny.png" width="500">
+<img src="/github/MessageShiny.png" width="500">
