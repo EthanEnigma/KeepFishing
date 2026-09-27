@@ -1,4 +1,4 @@
-$title @s actionbar [{"text":"Poisson : ","color":"yellow"}, {"text":"","color":"$(Color)","extra":[$(RawName)]}, {"text":"$(ShinyText)","color":"light_purple","bold":true}]
+$title @s actionbar [{"text":"Poisson : ","color":"white"}, {"text":"","color":"$(Color)","extra":[$(RawName)]}, {"text":"$(ShinyText)","color":"light_purple","bold":true}]
 
 data remove storage keepfishing:main RawName
 data remove storage keepfishing:main Rarity
