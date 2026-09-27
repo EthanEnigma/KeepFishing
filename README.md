@@ -15,7 +15,7 @@
 
 ## <img src="/github/Emerald.png" width="32"> Versions Compatibles
 - Minecraft Java Edition :
-    - **`26.2`**
+    - **`1.21.9` à `26.2`**
 
 ## <img src="/github/IronPickaxe.png" width="32"> Installation 
 

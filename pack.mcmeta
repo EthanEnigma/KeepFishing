@@ -1,7 +1,7 @@
 {
     "pack":{
-        "min_format": 107,
         "max_format": 107,
-        "description": "Fish the fishes. §6From LightYT"
+        "min_format": 81,
+        "description": "Ajoute des nouveaux poissons avec plusieurs rareté. §6From LightYT"
     }
 }
