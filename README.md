@@ -34,7 +34,7 @@
 <img src="/github/Installation1.png" width="500">
 
 ## <img src="/github/Cod.png" width="32"> Poissons et taux de drop
-- ### **Commun (~56%) :**
+- ### **Commun (~57%) :**
     - Morue
     - Perche
     - Bar
@@ -44,29 +44,30 @@
     - Tilapia
     - Vivaneau
     - Vandoise
-- ### **Peu Commun (~22%) :**
+- ### **Peu Commun (~25%) :**
     - Saumon
     - Cardeau
     - Crabe
     - Scarus
     - Fondule
-- ### **Rare (~15%) :**
+- ### **Rare (~16%) :**
     - Gobie
     - Guppy
     - Murène
     - Néon Bleu
     - Poisson Rouge
-- ### **Epic (~6%) :**
+- ### **Epic (~1.6%) :**
     - Hippocampe
     - Esturgeon
     - Raie
     - Chirurgien
     - Calmar
-- ### **Légendaire (~1%) :**
+- ### **Légendaire (~0.6%) :**
     - Homard
     - Requin Marteau
     - Requin blanc
 
+### Les probabilités changent grâce à l'enchantement `Chance de la mer`.
 ### Tous les poissons ont une variante shiny ayant `1%` de chance de drop.
 
 <img src="/github/Bar.png" width="500">
