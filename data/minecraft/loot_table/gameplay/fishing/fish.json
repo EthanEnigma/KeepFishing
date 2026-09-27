@@ -6,7 +6,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -99,7 +99,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -180,7 +180,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -277,7 +277,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -378,7 +378,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -471,7 +471,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -568,7 +568,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -669,7 +669,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -770,7 +770,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:cod",
-                    "weight": 50,
+                    "weight": 100,
                     "quality": -10,
                     "functions": [
                         {
@@ -859,8 +859,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:salmon",
-                    "weight": 35,
-                    "quality": -2,
+                    "weight": 80,
+                    "quality": -5,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -956,8 +956,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:salmon",
-                    "weight": 35,
-                    "quality": -2,
+                    "weight": 80,
+                    "quality": -5,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -1045,8 +1045,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:salmon",
-                    "weight": 35,
-                    "quality": -2,
+                    "weight": 80,
+                    "quality": -5,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -1138,8 +1138,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:salmon",
-                    "weight": 35,
-                    "quality": -2,
+                    "weight": 80,
+                    "quality": -5,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -1235,8 +1235,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:salmon",
-                    "weight": 35,
-                    "quality": -2,
+                    "weight": 80,
+                    "quality": -5,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -1316,7 +1316,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:tropical_fish",
-                    "weight": 25,
+                    "weight": 50,
                     "quality": 2,
                     "functions": [
                         {
@@ -1405,7 +1405,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:tropical_fish",
-                    "weight": 25,
+                    "weight": 50,
                     "quality": 2,
                     "functions": [
                         {
@@ -1494,7 +1494,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:tropical_fish",
-                    "weight": 25,
+                    "weight": 50,
                     "quality": 2,
                     "functions": [
                         {
@@ -1587,7 +1587,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:tropical_fish",
-                    "weight": 25,
+                    "weight": 50,
                     "quality": 2,
                     "functions": [
                         {
@@ -1688,7 +1688,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:tropical_fish",
-                    "weight": 25,
+                    "weight": 50,
                     "quality": 2,
                     "functions": [
                         {
@@ -1805,8 +1805,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:pufferfish",
-                    "weight": 10,
-                    "quality": 3,
+                    "weight": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -1914,8 +1914,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:pufferfish",
-                    "weight": 10,
-                    "quality": 3,
+                    "weight": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -2019,8 +2019,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:pufferfish",
-                    "weight": 10,
-                    "quality": 3,
+                    "weight": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -2104,8 +2104,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:pufferfish",
-                    "weight": 10,
-                    "quality": 3,
+                    "weight": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -2213,8 +2213,8 @@
                 {
                     "type": "minecraft:item",
                     "name": "minecraft:pufferfish",
-                    "weight": 10,
-                    "quality": 3,
+                    "weight": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -2307,7 +2307,7 @@
                     "type": "minecraft:item",
                     "name": "minecraft:nautilus_shell",
                     "weight": 3,
-                    "quality": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -2432,7 +2432,7 @@
                     "type": "minecraft:item",
                     "name": "minecraft:nautilus_shell",
                     "weight": 3,
-                    "quality": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
@@ -2529,7 +2529,7 @@
                     "type": "minecraft:item",
                     "name": "minecraft:nautilus_shell",
                     "weight": 3,
-                    "quality": 5,
+                    "quality": 1,
                     "functions": [
                         {
                             "function": "minecraft:set_components",
