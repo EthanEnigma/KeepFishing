@@ -30,7 +30,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -90,6 +95,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -123,7 +130,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -171,6 +183,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -204,7 +218,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -268,6 +287,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -301,7 +322,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -369,6 +395,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -402,7 +430,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -462,6 +495,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -495,7 +530,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -559,6 +599,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -592,7 +634,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -660,6 +707,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -693,7 +742,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -761,6 +815,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -794,7 +850,12 @@
                                             "color": "gray"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -850,6 +911,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "common",
                                     "shiny": true
                                 }
                             }
@@ -883,7 +946,12 @@
                                             "color": "green"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -947,6 +1015,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
                                     "shiny": true
                                 }
                             }
@@ -980,7 +1050,12 @@
                                             "color": "green"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1036,6 +1111,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
                                     "shiny": true
                                 }
                             }
@@ -1069,7 +1146,12 @@
                                             "color": "green"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1129,6 +1211,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
                                     "shiny": true
                                 }
                             }
@@ -1162,7 +1246,12 @@
                                             "color": "green"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1226,6 +1315,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
                                     "shiny": true
                                 }
                             }
@@ -1259,7 +1350,12 @@
                                             "color": "green"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1307,6 +1403,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "uncommon",
                                     "shiny": true
                                 }
                             }
@@ -1340,7 +1438,12 @@
                                             "color": "aqua"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1396,6 +1499,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
                                     "shiny": true
                                 }
                             }
@@ -1429,7 +1534,12 @@
                                             "color": "aqua"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1485,6 +1595,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
                                     "shiny": true
                                 }
                             }
@@ -1518,7 +1630,12 @@
                                             "color": "aqua"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1578,6 +1695,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
                                     "shiny": true
                                 }
                             }
@@ -1611,7 +1730,12 @@
                                             "color": "aqua"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1679,6 +1803,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
                                     "shiny": true
                                 }
                             }
@@ -1712,7 +1838,12 @@
                                             "color": "aqua"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1796,6 +1927,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "rare",
                                     "shiny": true
                                 }
                             }
@@ -1829,7 +1962,12 @@
                                             "color": "light_purple"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -1905,6 +2043,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
                                     "shiny": true
                                 }
                             }
@@ -1938,7 +2078,12 @@
                                             "color": "light_purple"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -2010,6 +2155,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
                                     "shiny": true
                                 }
                             }
@@ -2043,7 +2190,12 @@
                                             "color": "light_purple"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -2095,6 +2247,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
                                     "shiny": true
                                 }
                             }
@@ -2128,7 +2282,12 @@
                                             "color": "light_purple"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -2204,6 +2363,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
                                     "shiny": true
                                 }
                             }
@@ -2237,7 +2398,12 @@
                                             "color": "light_purple"
                                         }
                                     ]
-                                ]
+                                ],
+                                "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
+                                    "shiny": false
+                                }
                             }
                         },
                         {
@@ -2297,6 +2463,8 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
+                                    "rarity": "epic",
                                     "shiny": true
                                 }
                             }
@@ -2332,7 +2500,9 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
-                                    "rarity": "legendary"
+                                    "is_custom_fish": true,
+                                    "rarity": "legendary",
+                                    "shiny": false
                                 }
                             }
                         },
@@ -2421,6 +2591,7 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
                                     "rarity": "legendary",
                                     "shiny": true
                                 }
@@ -2457,7 +2628,9 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
-                                    "rarity": "legendary"
+                                    "is_custom_fish": true,
+                                    "rarity": "legendary",
+                                    "shiny": false
                                 }
                             }
                         },
@@ -2518,6 +2691,7 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
                                     "rarity": "legendary",
                                     "shiny": true
                                 }
@@ -2554,7 +2728,9 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
-                                    "rarity": "legendary"
+                                    "is_custom_fish": true,
+                                    "rarity": "legendary",
+                                    "shiny": false
                                 }
                             }
                         },
@@ -2635,6 +2811,7 @@
                                     ]
                                 ],
                                 "minecraft:custom_data": {
+                                    "is_custom_fish": true,
                                     "rarity": "legendary",
                                     "shiny": true
                                 }

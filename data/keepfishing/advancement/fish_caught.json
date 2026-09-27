@@ -1,12 +1,12 @@
 {
     "criteria": {
-        "trigger": {
+        "caught_custom_fish": {
             "trigger": "minecraft:fishing_rod_hooked",
             "conditions": {
                 "item": {
                     "predicates": {
                         "minecraft:custom_data": {
-                            "shiny": true
+                            "is_custom_fish": true
                         }
                     }
                 }
@@ -14,6 +14,6 @@
         }
     },
     "rewards": {
-        "function": "keepfishing:fish_shiny"
+        "function": "keepfishing:on_fish_caught"
     }
 }
