@@ -2,7 +2,7 @@
 
 **KeepFishing** est un datapack Minecraft (Java Edition) qui ajoute un système de rareté aux poissons capturés en pêchant.
 
-## Fonctionnalités
+## <img src="/github/FishingRod.png" width="32"> Fonctionnalités
 - **Ajout de 27 nouveaux poissons.**
 - **5 différentes rareté :** 
     - Commun
@@ -13,11 +13,11 @@
 - **Système de Shiny :** Variante des poissons plus rare ayant une couleur différente.
 - **Compatibilité Multijoueur :** Le Datapack peut facilement être ajouté ou retiré d'un monde solo comme multijoueur.
 
-## Versions Compatibles
+## <img src="/github/Emerald.png" width="32"> Versions Compatibles
 - Minecraft Java Edition :
-    - **`23.2`**
+    - **`26.2`**
 
-## Installation 
+## <img src="/github/IronPickaxe.png" width="32"> Installation 
 
 ### Nouveau monde :
 1. Téléchargez la dernière version du datapack et dezippez le.
@@ -33,7 +33,7 @@
 - `Menu de création` > `Plus` > `Datapacks` <br>
 <img src="/github/Installation1.png" width="500">
 
-## Poissons et taux de drop
+## <img src="/github/Cod.png" width="32"> Poissons et taux de drop
 - ### **Communs (~56%) :**
     - Morue
     - Perche
