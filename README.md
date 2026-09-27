@@ -5,11 +5,11 @@
 ## <img src="/github/FishingRod.png" width="32"> Fonctionnalités
 - **Ajout de 27 nouveaux poissons.**
 - **5 différentes rareté :** 
-    - <span style="color:#AAAAAA">Commun</span>
-    - <span style="color:#55FF55">Peu Commun</span>
-    - <span style="color:#55FFFF">Rare</span>
-    - <span style="color:#FF55FF">Epic</span>
-    - <span style="color:#FFAA00">Légendaire</span>
+    - Commun
+    - Peu Commun
+    - Rare 
+    - Epic
+    - Légendaire
 - **Système de Shiny :** Variante des poissons plus rare ayant une couleur différente.
 - **Compatibilité Multijoueur :** Le Datapack peut facilement être ajouté ou retiré d'un monde solo comme multijoueur.
 
@@ -34,7 +34,7 @@
 <img src="/github/Installation1.png" width="500">
 
 ## <img src="/github/Cod.png" width="32"> Poissons et taux de drop
-- ### **<span style="color:#AAAAAA">Commun</span> (~56%) :**
+- ### **Commun (~56%) :**
     - Morue
     - Perche
     - Bar
@@ -44,25 +44,25 @@
     - Tilapia
     - Vivaneau
     - Vandoise
-- ### **<span style="color:#55FF55">Peu Commun</span> (~22%) :**
+- ### **Peu Commun (~22%) :**
     - Saumon
     - Cardeau
     - Crabe
     - Scarus
     - Fondule
-- ### **<span style="color:#55FFFF">Rare</span> (~15%) :**
+- ### **Rare (~15%) :**
     - Gobie
     - Guppy
     - Murène
     - Néon Bleu
     - Poisson Rouge
-- ### **<span style="color:#FF55FF">Epic</span> (~6%) :**
+- ### **Epic (~6%) :**
     - Hippocampe
     - Esturgeon
     - Raie
     - Chirurgien
     - Calmar
-- ### **<span style="color:#FFAA00">Légendaire</span> (~1%) :**
+- ### **Légendaire (~1%) :**
     - Homard
     - Requin Marteau
     - Requin blanc
